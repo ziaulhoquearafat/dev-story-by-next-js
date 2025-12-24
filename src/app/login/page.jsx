@@ -1,7 +1,9 @@
+import Title from "@/components/Title";
+
 const Login = () => {
   return (
     <div>
-      <h1>This is Login Page</h1>
+      <Title>This is Login Page</Title>
     </div>
   );
 };
